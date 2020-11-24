@@ -18,6 +18,6 @@
 
 총 수집 건수 : 2,014
 
-**데이터스키마
+**데이터스키마**
 
 ![KakaoTalk_20201125_011933204](https://user-images.githubusercontent.com/74213615/100122164-6fd6a780-2ebc-11eb-98c5-94a1e7f1d441.png)
