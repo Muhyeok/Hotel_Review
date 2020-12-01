@@ -18,10 +18,10 @@
 
 + 총 수집 건수 : 2,014
 
-* **데이터스키마**
+**데이터스키마**
 
 ![KakaoTalk_20201125_011933204](https://user-images.githubusercontent.com/74213615/100122164-6fd6a780-2ebc-11eb-98c5-94a1e7f1d441.png)
 
-* **형태소분석결과 피벗테이블 완성 (명사 상대빈도 상위10)**
+**형태소분석결과 피벗테이블 완성 (명사 상대빈도 상위10)**
 
 ![KakaoTalk_20201201_211428205](https://user-images.githubusercontent.com/74213615/100739313-3f41c100-341a-11eb-8686-686bab0b76ae.png)
