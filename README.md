@@ -24,4 +24,4 @@
 
 **형태소분석결과 피벗테이블 완성 (명사 상대빈도 상위10)**
 
-
+![KakaoTalk_20201201_211428205](https://user-images.githubusercontent.com/74213615/100739313-3f41c100-341a-11eb-8686-686bab0b76ae.png)
