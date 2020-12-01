@@ -21,3 +21,6 @@
 **데이터스키마**
 
 ![KakaoTalk_20201125_011933204](https://user-images.githubusercontent.com/74213615/100122164-6fd6a780-2ebc-11eb-98c5-94a1e7f1d441.png)
+
+**형태소분석결과 피벗테이블 완성 (명사 상대빈도 상위10)**
+
