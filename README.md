@@ -28,6 +28,7 @@
 
 **데이터 코딩**
 
+![데이터 코딩](https://user-images.githubusercontent.com/74213615/101506089-5f442800-39b8-11eb-8f8c-6060185d4240.png)
 
 **상관관계 분석 결과**
 
