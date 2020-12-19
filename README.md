@@ -26,12 +26,4 @@
 
 ![KakaoTalk_20201201_211428205](https://user-images.githubusercontent.com/74213615/100739313-3f41c100-341a-11eb-8686-686bab0b76ae.png)
 
-**데이터 코딩**
 
-![데이터 코딩](https://user-images.githubusercontent.com/74213615/101506089-5f442800-39b8-11eb-8f8c-6060185d4240.png)
-
-**상관관계 분석 결과**
-
-![상관분석 결과](https://user-images.githubusercontent.com/74213615/101506225-7daa2380-39b8-11eb-89c8-696e70bb5c12.png)
-
-각 변수간의 상관관계 분석을 통해 서로 영향을 미치는 변수가 있는지 확인함.  -평가, 종아요, 작성시간, 숙박시기가 서로 상관이 있음을 통계적으로 확인하였음.( .01 < P)
