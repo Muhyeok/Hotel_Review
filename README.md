@@ -55,11 +55,7 @@ Grouping 진행
 
 ![image](https://user-images.githubusercontent.com/74213615/102676090-453bee00-41df-11eb-9c5e-6cb29742b804.png)
 
-This is a normal paragraph:
-
-  데이터스키마를 제외한 위의 모든 데이터 분석 진행에 관한 파일은 아래 파일에 시트(sheet)별로 정리하였음.
-  
- end code block.
+데이터스키마를 제외한 위의 모든 데이터 분석 진행에 관한 파일은 아래 파일에 시트(sheet)별로 정리하였음.
 
   - 호텔리뷰_201604045_김무혁_형태소분석결과.xlsx
 
