@@ -35,12 +35,18 @@
 
 ![KakaoTalk_20201201_211428205](https://user-images.githubusercontent.com/74213615/100739313-3f41c100-341a-11eb-8686-686bab0b76ae.png)
 
-**데이터 분석 (품사별 형태소분석)**
+**데이터 분석**
 
-명사/형용사/동사 별로 데이터 추출 진행
+명사/형용사/동사 별로 데이터 추출 진행_품사별 형태소분석
 
 ![품사별 형태소 분석](https://user-images.githubusercontent.com/74213615/102675759-f2ae0200-41dd-11eb-876f-facc8eea0c6f.png)
 
 명사 추출 데이터의 시각화_워드클라우드
+
+![호텔리뷰_시각화_워드클라우드](https://user-images.githubusercontent.com/74213615/102675847-491b4080-41de-11eb-9aa4-a7d6a27aebd9.png)
+
+Grouping 진행
+- 명사로 추출된 상위 20개 단어에 관하여 Grouping을 진행함. 
+- 분류의 기준은 시설/직원/사용자/지역/금액/해당사항 없음의 구분으로 나눔.
 
 
