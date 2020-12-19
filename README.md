@@ -49,4 +49,9 @@ Grouping 진행
 - 명사로 추출된 상위 20개 단어에 관하여 Grouping을 진행함. 
 - 분류의 기준은 시설/직원/사용자/지역/금액/해당사항 없음의 구분으로 나눔.
 
+![image](https://user-images.githubusercontent.com/74213615/102676004-f0987300-41de-11eb-8bde-899746d7d8dc.png)
+
+- 상위 20개 명사의 명사에 관한 빈도 백분율_시각화 차트
+
+
 
