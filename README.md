@@ -39,4 +39,8 @@
 
 명사/형용사/동사 별로 데이터 추출 진행
 
+![품사별 형태소 분석](https://user-images.githubusercontent.com/74213615/102675759-f2ae0200-41dd-11eb-876f-facc8eea0c6f.png)
+
+명사 추출 데이터의 시각화_워드클라우드
+
 
