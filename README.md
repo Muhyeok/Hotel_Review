@@ -33,7 +33,7 @@
 
 **형태소분석결과 피벗테이블 완성**
 
-![KakaoTalk_20201201_211428205](https://user-images.githubusercontent.com/74213615/100739313-3f41c100-341a-11eb-8686-686bab0b76ae.png)
+![형태소분석결과_크기조절](https://user-images.githubusercontent.com/74213615/102676423-d069b380-41e0-11eb-9ccf-1442bfa6782f.png)
 
 **데이터 분석**
 
