@@ -35,4 +35,8 @@
 
 ![KakaoTalk_20201201_211428205](https://user-images.githubusercontent.com/74213615/100739313-3f41c100-341a-11eb-8686-686bab0b76ae.png)
 
+**데이터 분석 (품사별 형태소분석)**
+
+명사/형용사/동사 별로 데이터 추출 진행
+
 
