@@ -80,6 +80,7 @@
 
 ##### **본 프로젝트 관련 발표영상**
 
+[https://youtu.be/JGJVNthSVmA](https://youtu.be/JGJVNthSVmA)
 
 
 
